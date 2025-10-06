@@ -42,3 +42,4 @@ Optional Database: MongoDB / Firebase for storing chat history
 Styling: Bootstrap / Tailwind CSS for responsive design
  
 ## OUTPUT ##
+<img width="1906" height="955" alt="Image" src="https://github.com/user-attachments/assets/6bb193f5-9798-4433-b046-2fcb0830aac3" />
