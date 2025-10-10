@@ -14,7 +14,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-###   A Real-Time Chatbot Application built using modern web technologies to provide seamless, interactive communication between users. This project demonstrates the integration of WebSockets for real-time messaging and a responsive front-end for an intuitive user experience.###
+###   A Real-Time Chatbot Application built using modern web technologies to provide seamless, interactive communication between users. This project demonstrates the integration of WebSockets for real-time messaging and a responsive front-end for an intuitive user experience.   ###
  Features
  
 Real-Time Messaging: Messages are sent and received instantly using WebSocket technology.
